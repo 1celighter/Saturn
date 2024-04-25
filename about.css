@@ -5,7 +5,8 @@ body {
 .bg{
     background-color: rgb(61, 61, 61);
     background-image: url(saturn1920x1080.jpg);
-    width: 1654px; height: 868px;
+    width: 1920px; 
+    height: 1080px;
     position: absolute;
     background-blend-mode: multiply;
     top: -50px;
@@ -83,5 +84,20 @@ body {
     height: 335px;
     left: 777px;
     top: 376px;
+    position: absolute;
+}
+.anon{
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+
+}
+.leftsidetext{
+    width: 405px;
+    height: 479px;
+    left: 194px;
+    top: 328px;
     position: absolute;
 }
